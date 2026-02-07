@@ -14,6 +14,7 @@ var getname3 =function(){//another way of declaring function
 }
 
 getname();// function call
+
 getname2();// function call of arrow function
 getname3();
 var a = 100; //variable declaration
