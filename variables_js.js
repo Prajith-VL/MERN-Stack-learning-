@@ -17,3 +17,11 @@ let price = 333.65;
 console.log(`You are ${age} years old`);//to dispaly variable 
 
 console.log(typeof price);// to identify the data type
+
+//String datatype
+let name="Prajith";//string variable
+console.log(`my name is ${name}`);
+
+//boolean
+let online=true;
+console.log(`I am present ${online}`);
