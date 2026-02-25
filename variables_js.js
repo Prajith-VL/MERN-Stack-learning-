@@ -25,3 +25,6 @@ console.log(`my name is ${name}`);
 //boolean
 let online=true;
 console.log(`I am present ${online}`);
+
+//Giving value to a texf element in html
+document.getElementById("myH1").textContent=`my name is ${name}`;

@@ -10,5 +10,5 @@ console.log(`hei everyone iam prajith`);
 window.alert(`This is a lert that iam learning javascript`);
 */
 
-document.getElementById("myH1").textContent="Hello";
-document.getElementById("myP").textContent=`hi i have given content to my html page using js`;
+//document.getElementById("myH1").textContent="Hello";
+//document.getElementById("myP").textContent=`hi i have given content to my html page using js`;
