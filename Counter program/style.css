@@ -1,0 +1,19 @@
+#countLable{
+    display: block;
+    text-align: center;
+    font-size: 10em;
+}
+#ButtonContainer{
+    color:white;
+    text-align: center;
+}
+.Buttons{
+    padding: 10px 20px;
+    font-size: larger;
+    color:black;
+    background-color: rgb(67, 67, 185);
+    border-radius: 5px;
+}
+.Buttons:hover{
+    background-color: rgb(19, 19, 88);
+}
